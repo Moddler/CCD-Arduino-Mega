@@ -432,6 +432,9 @@
           "/Button",
           "/CLK",
           "/CONTROL",
+          "/D12",
+          "/D13",
+          "/D2",
           "/REC",
           "/RX0",
           "/RX2",
@@ -442,7 +445,10 @@
           "/TX0",
           "/TX1",
           "/TX2",
-          "/TX3"
+          "/TX3",
+          "Net-(D1-Pad2)",
+          "Net-(D2-Pad2)",
+          "Net-(JP4-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
