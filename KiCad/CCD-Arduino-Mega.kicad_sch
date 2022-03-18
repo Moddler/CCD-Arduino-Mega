@@ -1150,7 +1150,6 @@
   (no_connect (at 45.72 72.39) (uuid 59ec8f34-0c83-46aa-b110-575e21860835))
   (no_connect (at 76.2 49.53) (uuid 73b31be3-69ec-4423-b484-d6817a1648ae))
   (no_connect (at 76.2 22.86) (uuid a86dc2b8-f230-4ab2-b61f-403645dd2359))
-  (no_connect (at 58.42 137.16) (uuid f5de24ba-2634-4a2a-8be9-1784795c6836))
 
   (polyline (pts (xy 12.7 170.18) (xy 44.45 170.18))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2246,7 +2245,7 @@
     (uuid 23352efa-710c-4ca4-98a5-fd92267e586c)
     (property "Reference" "U1" (id 0) (at 41.91 18.6182 0))
     (property "Value" "Conn_02x07_Counter_Clockwise" (id 1) (at 41.91 20.9296 0))
-    (property "Footprint" "Package_DIP:DIP-14_W7.62mm" (id 2) (at 40.64 31.75 0)
+    (property "Footprint" "Socket:DIP_Socket-14_W4.3_W5.08_W7.62_W10.16_W10.9_3M_214-3339-00-0602J" (id 2) (at 40.64 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 40.64 31.75 0)
@@ -3181,7 +3180,7 @@
       (reference "TP3") (unit 1) (value "Ground") (footprint "TestPoint:TestPoint_Pad_D3.0mm")
     )
     (path "/23352efa-710c-4ca4-98a5-fd92267e586c"
-      (reference "U1") (unit 1) (value "Conn_02x07_Counter_Clockwise") (footprint "Package_DIP:DIP-14_W7.62mm")
+      (reference "U1") (unit 1) (value "Conn_02x07_Counter_Clockwise") (footprint "Socket:DIP_Socket-14_W4.3_W5.08_W7.62_W10.16_W10.9_3M_214-3339-00-0602J")
     )
     (path "/99ad6875-75cb-427f-92c4-5fd2633b46f0"
       (reference "X1") (unit 1) (value "CXO_DIP14") (footprint "Oscillator:Oscillator_DIP-14")
