@@ -28,4 +28,10 @@ fp-info-cache
 *.xml
 *.csv
 
+
+# Fabrication files
+*fabrication/
+
+
+# Apple stuff
 .DS_Store
