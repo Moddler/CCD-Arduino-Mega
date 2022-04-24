@@ -3056,7 +3056,7 @@
   (gr_circle (center 167.64 93.98) (end 169.2275 93.98) (layer "Edge.Cuts") (width 0.15) (fill none) (tstamp 7f52d787-caa3-4a92-b1b2-19d554dc29a4))
   (gr_line (start 200.66 99.06) (end 207.01 93.98) (layer "Edge.Cuts") (width 0.05) (tstamp 84e5506c-143e-495f-9aa4-d3a71622f213))
   (gr_circle (center 191.77 78.74) (end 193.3575 78.74) (layer "Edge.Cuts") (width 0.15) (fill none) (tstamp c8029a4c-945d-42ca-871a-dd73ff50a1a3))
-  (gr_text "CCD-Arduino-Mega Rev1.0\ngithub.com/Moddler\n© Moddler 2022" (at 149 119.38) (layer "F.SilkS") (tstamp efd3296c-45d0-4644-8ca7-86a2b5d08997)
+  (gr_text "CCD-Arduino-Mega Rev1.0 ZIF\ngithub.com/Moddler\n© Moddler 2022" (at 149 119.38) (layer "F.SilkS") (tstamp efd3296c-45d0-4644-8ca7-86a2b5d08997)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "USB" (at 104.14 91.44) (layer "Dwgs.User") (tstamp 5bcace5d-edd0-4e19-92d0-835e43cf8eb2)
