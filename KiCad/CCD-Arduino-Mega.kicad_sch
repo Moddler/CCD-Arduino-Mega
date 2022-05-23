@@ -2130,7 +2130,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 000cc06b-ddc1-4252-a8ba-1b095fa8262f)
     (property "Reference" "R1" (id 0) (at 92.71 16.51 90))
-    (property "Value" "120kΩ" (id 1) (at 92.71 19.05 90))
+    (property "Value" "120Ω" (id 1) (at 92.71 19.05 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 92.71 21.082 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3090,7 +3090,7 @@
       (reference "JP4") (unit 1) (value "Quarz_Enable") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/000cc06b-ddc1-4252-a8ba-1b095fa8262f"
-      (reference "R1") (unit 1) (value "120kΩ") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R1") (unit 1) (value "120Ω") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/107dc1df-ec8e-4ef0-9b6b-e3c5ef1e2e97"
       (reference "R2") (unit 1) (value "13kΩ") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
