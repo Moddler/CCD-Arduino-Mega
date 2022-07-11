@@ -2544,7 +2544,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f848adab-9b96-4ff5-a36e-7676a795e192)
     )
-    (fp_text value "120kΩ" (at 3.81 2.37 90) (layer "F.Fab")
+    (fp_text value "120Ω" (at 3.81 2.37 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fd68fc9b-eb84-452f-a771-ba7b1326d30d)
     )
